@@ -103,7 +103,7 @@ Cada número muestra si es **supuesto** o **real** (etiqueta pequeña).
 
 La app trae una prueba interna con el ejemplo de la hoja (C 40.000, F 18.000, E 80 %, X 20 %, CPA 20.000, P 90.000 → BREAKEVEN 17.600, utilidad por entregado −3.750). Si alguna vez no da, la app lo dice.
 
-> **Decisión pendiente.** La skill de pauta usa otra fórmula de CPA techo (utilidad × entrega − devolución × (1 − entrega)). La propuesta es usar solo el **BREAKEVEN de la hoja del curso** en toda la app para que haya un único número. Confírmalo.
+> **Decidido:** toda la app usa el **BREAKEVEN de la hoja del curso** como único CPA techo.
 
 ## 4. Crear → Creativos
 
